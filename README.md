@@ -1,7 +1,5 @@
-![Logo de GammaTech School](./assets/images/Logo_Yellow.png)
-
 # Game Inventory
-
+<!-- 
 ## Introducción
 Este proyecto está pensado para trabajar todo lo aprendido de React hasta ahora: hooks, router, context, etc.
 La idea es crear una aplicación que simule la interfaz del inventario de un videojuego de rol. En concreto, este proyecto está inspirado en  _The Legend of Zelda: Breath of the Wild_. Para realizar la tarea, tenéis a vuestra disposición [esta API](https://practise-game-inventory.vercel.app/api/items), donde encontraréis los artículos del inventario (nombre, stats, imágenes, etc.), y [este ejemplo](https://practise-game-inventory.vercel.app), para que os sirva de guía.
@@ -41,4 +39,4 @@ La página de personaje, que estará en la ruta `/character`, mostrará:
 	- Todos los stats tienen, por defecto, `10` puntos como mínimo. 
 	- A ellos habrá que sumarles los puntos de los objetos equipados.
 
-![](https://media.giphy.com/media/RHEGP4TpkhrQTFCZE4/giphy.gif)
+![](https://media.giphy.com/media/RHEGP4TpkhrQTFCZE4/giphy.gif) -->
